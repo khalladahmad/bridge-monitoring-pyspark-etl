@@ -2,7 +2,7 @@
 
 This project simulates IoT sensors on bridges and implements a **streaming ETL pipeline** using PySpark Structured Streaming. The pipeline follows the **Bronze → Silver → Gold** medallion architecture to ingest, clean, enrich, and aggregate sensor data (temperature, vibration, tilt) in real time.
 
-## Folder Structure
+## Project Structure
 ```
 bridge-monitoring-pyspark/
 │
